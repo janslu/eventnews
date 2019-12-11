@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" target-language="pl" datatype="plaintext" original="messages" date="2019-03-17T18:32:27Z" product-name="eventnews">
+		<header/>
+		<body>
+			<trans-unit id="tx_eventnews_domain_model_location">
+				<source>Location</source>
+				<target>Lokalizacja</target>
+			</trans-unit>
+			<trans-unit id="tx_eventnews_domain_model_location.title">
+				<source>Title</source>
+				<target>Tytuł</target>
+			</trans-unit>
+			<trans-unit id="tx_eventnews_domain_model_location.description">
+				<source>Description</source>
+				<target>Opis</target>
+			</trans-unit>
+			<trans-unit id="tx_eventnews_domain_model_location.lat">
+				<source>Lat</source>
+				<target>Szer</target>
+			</trans-unit>
+			<trans-unit id="tx_eventnews_domain_model_location.lng">
+				<source>Lng</source>
+				<target>Dług</target>
+			</trans-unit>
+			<trans-unit id="tx_eventnews_domain_model_location.link">
+				<source>Link</source>
+				<target>Link</target>
+			</trans-unit>
+			<trans-unit id="tx_eventnews_domain_model_organizer">
+				<source>Organizer</source>
+				<target>Organizator</target>
+			</trans-unit>
+			<trans-unit id="tx_eventnews_domain_model_organizer.title">
+				<source>Title</source>
+				<target>Tytuł</target>
+			</trans-unit>
+			<trans-unit id="tx_eventnews_domain_model_organizer.description">
+				<source>Description</source>
+				<target>Opis</target>
+			</trans-unit>
+			<trans-unit id="tx_eventnews_domain_model_organizer.link">
+				<source>Link</source>
+				<target>Link</target>
+			</trans-unit>
+			<trans-unit id="tx_eventnews_domain_model_news">
+				<source>News</source>
+				<target>News</target>
+			</trans-unit>
+			<trans-unit id="tx_eventnews_domain_model_news.is_event">
+				<source>Is Event</source>
+				<target>Jest wydarzeniem</target>
+			</trans-unit>
+			<trans-unit id="tx_eventnews_domain_model_news.full_day">
+				<source>Full Day</source>
+				<target>Cały dzień</target>
+			</trans-unit>
+			<trans-unit id="tx_eventnews_domain_model_news.event_end">
+				<source>Event End</source>
+				<target>Zakończenie</target>
+			</trans-unit>
+			<trans-unit id="tx_news_domain_model_news.organizer_simple">
+				<source>Organizer simple</source>
+				<target>Organizator</target>
+			</trans-unit>
+			<trans-unit id="tx_news_domain_model_news.location_simple">
+				<source>Location simple</source>
+				<target>Lokalizacja</target>
+			</trans-unit>
+			<trans-unit id="tab.eventnews">
+				<source>Event details</source>
+				<target>Szczegóły</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
